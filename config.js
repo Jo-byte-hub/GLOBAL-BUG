@@ -1,9 +1,9 @@
-global.namaown = "Qasim Ali" // your owner name here
-global.namabot = "© GlobalTechInfo" // your bot name here
+global.namaown = "Joshua" // your owner name here
+global.namabot = "© Josh Tech" // your bot name here
 global.versisc = "9.5.0" //
-global.owner = ["923444844060"] // your owner number here
-global.tele = "https://t.me/GlobalBotInc" // your telegram here
-global.url = "https://www.youtube.com/@GlobalTechInfo" // Your YouTube Here
+global.owner = ["2349115983460"] // your owner number here
+global.tele = "https://t.me/Joshua" // your telegram here
+global.url = "https://www.youtube.com/@Joshua" // Your YouTube Here
 global.namastore = "LynnZxD" // UBAH NAMA STORE LU
 global.simbol = "✪" // You Can Change Simbol
 global.wlcm = []
@@ -17,22 +17,22 @@ global.limitawal = {
 global.painlogo = "http://telegra.ph/file/9a332c815ad31956d5ce6.jpg" 
 
 global.my = {
-      saluran: "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07",
+      saluran: "https://chat.whatsapp.com/Ek55y9kQcFTKO8BtUT0RfH",
       idCH: "120363319098372999@newsletter",
-      youtube: "https://www.youtube.com/@GlobalTechInfo",
-      telegram: "https://t.me/GlobalBotInc",
-      Instagram: "https://www.instagram.com/"
+      youtube: "https://www.youtube.com/@Joshua",
+      telegram: "https://t.me/Joshua",
+      Instagram: "https://www.instagram.com/Josh"
    }
 
 
 global.mess = {
-    success: 'ᴅᴏɴᴇ',
-    admin: '_*❗ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀɴ ᴀᴅᴍɪɴ !*_',
-    botAdmin: '_*❗ʙᴏᴛ ᴍᴜꜱᴛ ʙᴇ ᴛʜᴇ ᴀᴅᴍɪɴ !*_',
-    OnlyOwner: '_*❗ᴏᴡɴᴇʀꜱ ꜱᴘᴇᴄɪᴀʟ ꜰᴜɴᴄᴛɪᴏɴ !*_',
-    OnlyGrup: '_*❗ꜱᴘᴇᴄɪᴀʟ ꜰᴜɴᴄᴛɪᴏɴ ꜰᴏʀ ɢʀᴏᴜᴘ !*_',
-    private: '_(❗ꜱᴘᴇᴄɪᴀʟ ꜰᴜɴᴄᴛɪᴏɴ ꜰᴏʀ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ !*_',
-    wait: '_*ᴘʀᴏᴄᴇꜱꜱɪɴɢ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ*_',
+    success: 'Done',
+    admin: '_*❗My boss is Joshua!*_',
+    botAdmin: '_*❗Only my handsome boss can use me 😊 !*_',
+    OnlyOwner: '_*❗only Joshua knows me 😊 !*_',
+    OnlyGrup: '_*❗Joshua said i should work for groups only !*_',
+    private: '_(❗It's for private use only !*_',
+    wait: '_*Josh BOT is processing your request *_',
     notregist: '_*ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ʀᴇɢɪꜱᴛᴇʀᴇᴅ*_',
     premium: '_*ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴘʀᴇᴍɪᴜᴍ_*',
     endLimit: '_*Your Daily Limit Has Been Used Up, The Limit Will Be Reset Every 00:00 WIB_*.',
